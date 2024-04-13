@@ -35,7 +35,7 @@ class TaskManager:
 
 def main():
     task_manager = TaskManager()
-
+    print("App started ....")
     while True:
         print("\nTask Management System")
         print("1. Add Task")
